@@ -50,6 +50,7 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 
 <details>
  <summary>⏳ My Stats:</summary>
+ <br />
  
 <!--START_SECTION:waka-->
 ```text
