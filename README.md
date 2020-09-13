@@ -52,7 +52,7 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
  <summary>⏳ My Stats:</summary>
 <br />
 
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 C            5 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   36.91 % 
 HTML         4 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.39 % 
