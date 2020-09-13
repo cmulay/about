@@ -47,6 +47,17 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 </details>
 
 ---
+<details>
+ <summary>⏳ My Stats:</summary>
+ <br />
+ 
+<!—START_SECTION:waka—>
+<!—END_SECTION:waka—>
+ 
+<br />
+</details>
+---
+
 <details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
