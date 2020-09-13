@@ -48,18 +48,6 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 
 ---
 
-<details>
- <summary>⏳ My Stats:</summary>
- <br />
- 
-<!-- START_SECTION:waka -—>
-<!-— END_SECTION:waka —->
- 
-<br />
-</details>
-
----
-
 <details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
@@ -68,6 +56,18 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 [<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wolfie.here)
 [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cmulay/)
 [<img align="left" alt="cmulay" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.ctechcontinentals.ml/)
+<br />
+</details>
+
+---
+
+<details>
+ <summary>⏳ My Stats:</summary>
+ <br />
+ 
+<!-- START_SECTION:waka -—>
+<!-— END_SECTION:waka —->
+ 
 <br />
 </details>
 
