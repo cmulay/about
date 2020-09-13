@@ -47,6 +47,7 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 </details>
 
 ---
+
 <details>
  <summary>⏳ My Stats:</summary>
  <br />
@@ -56,6 +57,7 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
  
 <br />
 </details>
+
 ---
 
 <details active="true">
