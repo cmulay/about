@@ -61,6 +61,7 @@ JavaScript   49 mins         █▒░░░░░░░░░░░░░░░
 JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
+
 <br />
 </details>
 
