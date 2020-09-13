@@ -47,25 +47,6 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 </details>
 
 ---
-
-<details>
- <summary>⏳ My Stats:</summary>
- <br />
- 
-<!--START_SECTION:waka-->
-```text
-C            5 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   36.91 % 
-HTML         4 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.39 % 
-CSS          3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
-JavaScript   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-```
-<!--END_SECTION:waka-->
- 
-<br />
-</details>
-
----
 <details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
