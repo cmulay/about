@@ -54,11 +54,11 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 
 <!--START_SECTION:waka-->
 ```text
-CSS          5 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   40.46 % 
-HTML         3 hrs 48 mins   ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-JavaScript   2 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Markdown     1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+CSS          4 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 % 
+HTML         4 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   32.93 % 
+JavaScript   2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Markdown     1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
 
