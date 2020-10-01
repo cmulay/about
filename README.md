@@ -1,15 +1,13 @@
-<p align="center">
- 
 ### Hey there,
 <!-- **cmulay/cmulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a Computer Engineering Student. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
+I am a Computer Science Student, Exploring my interest and contributing to the Open-Source Community as I learn. 
 
 <!-- - 🔭 I’m currently working at: -->
 
-- 🌱 I’m currently learning: Data Science | Full Stack Web development | App Development | NLP | Cyber Security
+- 🌱 I’m currently learning: Machine Learning and It's application with AI powered robotic bots. [Main] and RUST.
 
-- 👯 I’m looking to collaborate on: Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👯 I’m looking to collaborate on: Machine Learning Projects
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
