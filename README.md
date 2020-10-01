@@ -52,8 +52,8 @@ I am a Computer Engineering Student. I love Machine Learning and trying to find 
 
 <!--START_SECTION:waka-->
 ```text
-C          1 hr 52 mins    ███████████████████░░░░░░   75.52 % 
-HTML       34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.95 % 
+HTML       29 mins         ██████████████████▓░░░░░░   75.13 % 
+C          8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
 ```
 <!--END_SECTION:waka-->
 
