@@ -50,8 +50,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 <!--START_SECTION:waka-->
 ```text
-HTML       29 mins         ██████████████████▓░░░░░░   75.13 % 
-C          8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
+HTML       29 mins         ██████████████████▓░░░░░░   75.07 % 
+C          8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
 ```
 <!--END_SECTION:waka-->
 
