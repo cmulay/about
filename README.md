@@ -56,6 +56,8 @@ C          8 mins          █████▓░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br />
+
+![](https://komarev.com/ghpvc/?username=cmulay&style=flat-square&color=green)
 </details>
 
 ---
