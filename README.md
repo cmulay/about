@@ -65,10 +65,7 @@ C          8 mins          █████▓░░░░░░░░░░░�
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
 
-[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chinmay.mulay30@gmail.com)
-[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wolfie.here)
-[<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cmulay/)
-[<img align="left" alt="cmulay" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.ctechcontinentals.ml/)
+[<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:codewithchin@gmail.com)
 <br />
 </details>
 
