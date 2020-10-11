@@ -50,7 +50,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML    8 mins          ████████████████████████░   96.43 % 
 ```
 <!--END_SECTION:waka-->
 
