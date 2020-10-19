@@ -14,9 +14,13 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 😄 Pronouns: He / Him
 
+<details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
 <br />
+
 [<img align="left" alt="cmulay | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:codewithchin@gmail.com)
 <br />
+
+</details>
 
 ---
