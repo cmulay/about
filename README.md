@@ -13,6 +13,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
 - 😄 Pronouns: He / Him
+- ![](https://komarev.com/ghpvc/?username=cmulay&style=flat-square&color=lightgrey&label=PROFILE+VIEWS)
 
 <details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
