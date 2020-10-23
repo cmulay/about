@@ -11,6 +11,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 😄 Pronouns: He / Him
 
+![](https://komarev.com/ghpvc/?username=cmulay&style=flat-square&color=red&label=PROFILE+VIEWS)
 ---
 
 <details active="true">
@@ -21,5 +22,3 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 <br />
 
 </details>
-
-![](https://komarev.com/ghpvc/?username=cmulay&style=flat-square&color=red&label=PROFILE+VIEWS)
