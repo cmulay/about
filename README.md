@@ -19,5 +19,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
   [<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_theguywithglasses_)
   
+  [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com/in/cmulay17)
+  
  </p>
  </details>
