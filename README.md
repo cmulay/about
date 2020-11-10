@@ -21,5 +21,9 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
   
   [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com/in/cmulay17)
   
+  [<img align="left" alt="cmulay | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/cmulay)
+  
+  [<img align="left" alt="cmulay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter.com/cmulay17)
+  
  </p>
  </details>
