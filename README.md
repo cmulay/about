@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://github.com/cmulay/cmulay/blob/master/code.gif?raw=true" width="500" height="320" />
-
 ### Hey there,
 I am a Computer Science Student, Exploring my interest and contributing to the Open-Source Community as I learn.
 
