@@ -9,7 +9,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 ---
 
-<details active="true">
+<div>
+ <details active="true">
  <summary>💁🏻‍♂️ Reach Me:</summary>
  <p>
   
@@ -25,3 +26,22 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
   
  </p>
  </details>
+</div>
+<br>
+
+---
+
+<div> 
+ <details active="true">
+ <summary>🌐 Websites:</summary>
+ <p>
+  
+  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefox.svg" />](https://cmulay.is-a.dev)
+
+  [<img align="left" alt="cmulay | Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefox.svg" />](https://www.ichinmay.me)
+  
+  [<img align="left" alt="cmulay | Work" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefox.svg" />](https://chinmay.works)
+  
+ </p>
+ </details>
+</div>
