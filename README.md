@@ -38,8 +38,6 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
   [<img align="left" alt="cmulay | Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefox.svg" />](https://www.ichinmay.me)
   
-  [<img align="left" alt="cmulay | Work" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefox.svg" />](https://chinmay.works)
-  
  </p>
  </details>
 </div>
