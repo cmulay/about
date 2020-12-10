@@ -102,6 +102,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
  
  <!--START_SECTION:waka-->
 ```text
+Week: 02 December, 2020 - 09 December, 2020
+
 Swift        2 hrs 13 mins   ███████████▒░░░░░░░░░░░░░   44.92 % 
 XML          32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 JSON         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
