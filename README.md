@@ -99,12 +99,10 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cmulay&style=flat-square)
-
 <div>
- 💁🏻‍♂️ My WakaTime Stats:
-    <p><br>
-        <!--START_SECTION:waka-->
+   💁🏻‍♂️ My WakaTime Stats:
+          
+ <!--START_SECTION:waka-->
 ```text
 Swift        2 hrs 13 mins   ███████████▒░░░░░░░░░░░░░   44.92 % 
 XML          32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
@@ -113,7 +111,5 @@ CSS          17 mins         █▓░░░░░░░░░░░░░░░
 Properties   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 <!--END_SECTION:waka-->
-    </p><br>
+   
 </div>
- 
-![](https://img.shields.io/badge/CONSIDER%20%E2%AD%90ing-MADE%20WITH%20%E2%9D%A4%EF%B8%8F-informational?style=for-the-badge&logo=appveyor)
