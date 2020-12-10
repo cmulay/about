@@ -98,10 +98,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 </div>
 
 ---
-
-<div>
-   💁🏻‍♂️ My WakaTime Stats:
-          
+### My WakaTime Stats:   
+ 
  <!--START_SECTION:waka-->
 ```text
 Swift        2 hrs 13 mins   ███████████▒░░░░░░░░░░░░░   44.92 % 
@@ -111,5 +109,3 @@ CSS          17 mins         █▓░░░░░░░░░░░░░░░
 Properties   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 <!--END_SECTION:waka-->
-   
-</div>
