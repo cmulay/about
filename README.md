@@ -17,42 +17,42 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 <div> 
     👨‍💻 Technologies:
         <p><br>
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/cpp.png" />
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/html5.png" />
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/css3.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/php.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/java.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/javascript.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/react.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/android.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/kotlin.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/flutter.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/firebase.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/swift.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/python.png" />                      
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/mysql.png" />                      
+            <img align="left" alt="cmulay | C++" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/cpp.png" />
+            <img align="left" alt="cmulay | HTML5" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/html5.png" />
+            <img align="left" alt="cmulay | CSS3" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/css3.png" />                      
+            <img align="left" alt="cmulay | PHP" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/php.png" />                      
+            <img align="left" alt="cmulay | JAVA" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/java.png" />                      
+            <img align="left" alt="cmulay | JavaScript" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/javascript.png" />                      
+            <img align="left" alt="cmulay | React" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/react.png" />                      
+            <img align="left" alt="cmulay | Android Development" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/android.png" />                      
+            <img align="left" alt="cmulay | Android with Kotlin" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/kotlin.png" />                      
+            <img align="left" alt="cmulay | Flutter" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/flutter.png" />                      
+            <img align="left" alt="cmulay | Firebase" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/firebase.png" />                      
+            <img align="left" alt="cmulay | Swift" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/swift.png" />                      
+            <img align="left" alt="cmulay | Python" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/python.png" />                      
+            <img align="left" alt="cmulay | MySQL" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/mysql.png" />                      
         </p><br>
 </div>
 
----
+<br>
 
 <div> 
      👨‍💻 IDE's:
             <p><br>
-                <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/dreamweaver.png" />
-                <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/vsc.png" />
-                <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/xcode.png" />                      
+                <img align="left" alt="cmulay | Adobe Dreamweaver" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/dreamweaver.png" />
+                <img align="left" alt="cmulay | Visual Studio Code" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/vsc.png" />
+                <img align="left" alt="cmulay | Apple XCode" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/xcode.png" />                      
             </p><br>
 </div>
 
----
+<br>
 
 <div> 
     👨‍💻 OS:
         <p><br>
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/linux.png" />
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/macos.png" />
-            <img align="left" alt="cmulay | Technologies" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/windows.png" />                      
+            <img align="left" alt="cmulay | Linux" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/linux.png" />
+            <img align="left" alt="cmulay | macOS" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/macos.png" />
+            <img align="left" alt="cmulay | Windows" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/windows.png" />                      
         </p><br>
 </div>
     </details>
@@ -75,7 +75,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
  </p> <br>
 </div>
 
----
+<br>
 
 <div>
   Social:
