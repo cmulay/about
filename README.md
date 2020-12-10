@@ -64,27 +64,36 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
     <details active="true">
         <summary> 🔗 Connect with me:</summary>
             <br>
-            <div>
-    Visit:
-        <p><br>
-            [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/portfolio_website.png"/>](https://cmulay.is-a.dev)
-            [<img align="left" alt="cmulay | Blogs" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/personal_website.png"/>](https://www.ichinmay.me)
-        </p><br>
+            <div> 
+ Visit:
+ <p>
+  
+  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/portfolio_website.png" />](https://cmulay.is-a.dev)
+
+  [<img align="left" alt="cmulay | Blogs" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/personal_website.png" />](https://www.ichinmay.me)
+  
+ </p> <br>
 </div>
 
 ---
 
 <div>
-        Socials :
-        <p><br>
-            [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
-            [<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/instagram.png" />](https://www.instagram.com/_theguywithglasses_)
-            [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/linkedin.png" />](https://linkedin.com/in/cmulay17)
-            [<img align="left" alt="cmulay | Telegram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/telegram.png" />](https://t.me/cmulay)
-            [<img align="left" alt="cmulay | Twitter" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/twitter.png" />](https://twitter.com/cmulay17)
-        </p><br>
+  Social:
+ <p>
+  
+  [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
+
+  [<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/instagram.png" />](https://www.instagram.com/_theguywithglasses_)
+  
+  [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/linkedin.png" />](https://linkedin.com/in/cmulay17)
+  
+  [<img align="left" alt="cmulay | Telegram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/telegram.png" />](https://t.me/cmulay)
+  
+  [<img align="left" alt="cmulay | Twitter" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/twitter.png" />](https://twitter.com/cmulay17)
+ 
+ </p>
 </div>
-<br>
+            <br>
     </details>
 </div>
 
