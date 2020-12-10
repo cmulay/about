@@ -20,10 +20,10 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 <div>
     <details active="true">
-        <summary>🙋‍♂️ About me:</summary>
+        <summary>👨‍💻 About me:</summary>
             <br>
 <div> 
-    👨‍💻 Technologies:
+    - Technologies:
         <p><br>
             <img align="left" alt="cmulay | C++" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/cpp.png" />
             <img align="left" alt="cmulay | HTML5" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/mytech/html5.png" />
@@ -45,7 +45,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 <br>
 
 <div> 
-     👨‍💻 IDE's:
+     - IDE's:
             <p><br>
                 <img align="left" alt="cmulay | Adobe Dreamweaver" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/dreamweaver.png" />
                 <img align="left" alt="cmulay | Visual Studio Code" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/vsc.png" />
@@ -56,7 +56,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 <br>
 
 <div> 
-    👨‍💻 OS:
+    - OS:
         <p><br>
             <img align="left" alt="cmulay | Linux" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/linux.png" />
             <img align="left" alt="cmulay | macOS" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/os/macos.png" />
@@ -73,7 +73,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
         <summary> 🔗 Connect with me:</summary>
             <br>
             <div> 
- Visit:
+ - Visit:
  <p>
   
   [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/portfolio_website.png" />](https://cmulay.is-a.dev)
@@ -86,7 +86,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 <br>
 
 <div>
-  Social:
+  - Social:
  <p>
   
   [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
@@ -119,3 +119,7 @@ CSS          17 mins         █▓░░░░░░░░░░░░░░░
 Properties   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 <!--END_SECTION:waka-->
+
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
+</p>
