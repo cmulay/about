@@ -2,11 +2,19 @@
 
 I am a Computer Science Student, Exploring my interest and contributing to the Open-Source Community as I learn.
 
-- 🌱 I’m currently learning: Machine Learning and It's application with AI powered robotic bots. [Main] and RUST.
+- 🔭 I’m currently working as Full Stack Developer at C-Tech Continentals
 
-- 💬 Ask me about anything. I will try to help you as much as I can.
+- 🌱 I’m currently learning: Objective-C, Swift.
+
+- 👯 I’m looking to collaborate on: Web, Android based projects or Anything.
+
+- 🤔 I’m looking for help with: DSA.
+
+- 💬 Ask me about: Web, Android, iOS Development or anything will try to help you as much as I can or will learn with you!
 
 - 😄 Pronouns: He / Him
+
+- ⚡ Fun fact: Learning Never Stops.
 
 ---
 
