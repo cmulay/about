@@ -109,3 +109,4 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
     </p><br>
 </div>
  
+![](https://img.shields.io/badge/CONSIDER%20%E2%AD%90ing-MADE%20WITH%20%E2%9D%A4%EF%B8%8F-informational?style=for-the-badge&logo=appveyor)
