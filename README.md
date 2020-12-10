@@ -99,6 +99,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 ---
 
+![](https://komarev.com/ghpvc/?username=cmulay&style=flat-square)
+
 <div>
  💁🏻‍♂️ My WakaTime Stats:
     <p><br>
@@ -106,3 +108,4 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
         <!--END_SECTION:waka-->
     </p><br>
 </div>
+ 
