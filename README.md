@@ -13,15 +13,15 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
  💁🏻‍♂️ Reach Me:
  <p>
   
-  [<img align="left" alt="cmulay | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:codewithchin@gmail.com)
+  [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
 
-  [<img align="left" alt="cmulay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_theguywithglasses_)
+  [<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/instagram.png" />](https://www.instagram.com/_theguywithglasses_)
   
-  [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/cmulay17)
+  [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/linkedin.png" />](https://linkedin.com/in/cmulay17)
   
-  [<img align="left" alt="cmulay | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/cmulay)
+  [<img align="left" alt="cmulay | Telegram" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/telegram.png" />](https://t.me/cmulay)
   
-  [<img align="left" alt="cmulay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cmulay17)
+  [<img align="left" alt="cmulay | Twitter" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/twitter.png" />](https://twitter.com/cmulay17)
  
  </p>
 </div>
@@ -34,9 +34,9 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
  <summary>🌐 Websites:</summary>
  <p>
   
-  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefox.svg" />](https://cmulay.is-a.dev)
+  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/portfolio_website.png" />](https://cmulay.is-a.dev)
 
-  [<img align="left" alt="cmulay | Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefox.svg" />](https://www.ichinmay.me)
+  [<img align="left" alt="cmulay | Blogs" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/personal_website.png" />](https://www.ichinmay.me)
   
  </p>
  </details>
