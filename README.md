@@ -47,11 +47,13 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 <br>
 
 <div> 
-     - IDE's:
+     - IDE's and S/W Package Managers:
             <p><br>
-                <img align="left" alt="cmulay | Adobe Dreamweaver" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/dreamweaver.png" />
-                <img align="left" alt="cmulay | Visual Studio Code" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/vsc.png" />
-                <img align="left" alt="cmulay | Apple XCode" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide/xcode.png" />                      
+                <img align="left" alt="cmulay | Adobe Dreamweaver" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide_packages/dreamweaver.png" />
+                <img align="left" alt="cmulay | Visual Studio Code" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide_packages/vsc.png" />
+                <img align="left" alt="cmulay | Apple XCode" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide_packages/xcode.png" />
+                <img align="left" alt="cmulay | Apple XCode" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide_packages/npm.png" />
+                <img align="left" alt="cmulay | Apple XCode" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide_packages/homebrew.png" />
             </p><br>
 </div>
 
