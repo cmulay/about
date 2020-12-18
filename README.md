@@ -18,6 +18,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - ⚡ Fun fact: Learning Never Stops.
 
+<br/>
+
 ---
 
 <div>
