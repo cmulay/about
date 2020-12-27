@@ -119,13 +119,13 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
  
  <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
+Week: 19 December, 2020 - 26 December, 2020
 
-Java         10 hrs 58 mins  █████████████████░░░░░░░░   67.38 % 
-HTML         4 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 % 
-C++          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Java    10 hrs 58 mins  ███████████████░░░░░░░░░░   60.66 % 
+HTML    4 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.70 % 
+Swift   2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+C       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+C++     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
 
