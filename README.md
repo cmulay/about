@@ -6,7 +6,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 🔭 I’m currently working as Full Stack Developer at C-Tech Continentals
 
-- 🌱 I’m currently learning Objective-C, Swift.
+- 🌱 I’m currently learning Objective-C.
 
 - 👯 I’m looking to collaborate on Web, Android based projects or Anything.
 
