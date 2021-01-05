@@ -119,13 +119,13 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
  
  <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2020 - 03 January, 2021
+Week: 28 December, 2020 - 04 January, 2021
 
-HTML            7 hrs 22 mins   █████████████████▓░░░░░░░   70.44 % 
-TypeScript      1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-JSX             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-C++             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Objective-C++   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+HTML            7 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.66 % 
+Objective-C++   1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+TypeScript      1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+JavaScript      48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSX             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 ```
 <!--END_SECTION:waka-->
 
