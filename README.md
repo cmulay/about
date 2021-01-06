@@ -16,7 +16,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 😄 Pronouns: He / Him
 
-- ⚡ Fun fact: Learning Never Stops. Visit my profile in Light/Dark mode.
+- ⚡ Fun fact: Learning Never Stops. Revisit my profile in Light/Dark mode.
 
 <br/>
 
