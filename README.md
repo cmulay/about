@@ -78,6 +78,22 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 ---
 
 <div>
+<details active="true">
+<summary>⌛ Hackathons:</summary>
+<br>
+
+- [SIH 2019](https://www.sih.gov.in/sih2019)
+- [SIH 2020](https://www.sih.gov.in/sih2020)
+- [APEX HACKATHON 2020](https://apex-sitrc.web.app/)
+- [ThetaHacks I](https://thetahacks.tech/)
+
+ 
+</details>
+</div>
+
+---
+
+<div>
     <details active="true">
         <summary> 🔗 Connect with me:</summary>
             <br>
