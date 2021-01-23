@@ -136,7 +136,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
  
  <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
 CSS          42 mins         █████████████▓░░░░░░░░░░░   54.03 % 
 HTML         36 mins         ███████████▒░░░░░░░░░░░░░   45.84 % 
