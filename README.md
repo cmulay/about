@@ -6,17 +6,13 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 🔭 I’m currently working as Full Stack Developer at C-Tech Continentals
 
-- 🌱 I’m currently learning Objective-C.
-
 - 👯 I’m looking to collaborate on Web, Android based projects or Anything.
 
-- 🤔 I’m looking for help with DSA.
-
-- 💬 Ask me about: Web, Android, iOS Development or anything will try to help you as much as I can or will learn with you!
+- 💬 Ask me about: Web, Android, iOS Development or anything will try to help you as much as I can.
 
 - 😄 Pronouns: He / Him
 
-- ⚡ Fun fact: Learning Never Stops. Revisit my profile in Light/Dark mode.
+- ⚡ Fun fact: Learning Never Stops.
 
 <br/>
 
