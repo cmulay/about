@@ -2,8 +2,6 @@
 
 I am a Computer Science Student, Exploring my interest and contributing to the Open-Source Community as I learn.
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/cmulay/cmulay/blob/master/designs/characters/read.png" width="300" height="300" />
-
 - 🔭 I’m currently working as Full Stack Developer at C-Tech Continentals
 
 - 👯 I’m looking to collaborate on Web, Android based projects or Anything.
@@ -13,8 +11,6 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 - 😄 Pronouns: He / Him
 
 - ⚡ Fun fact: Learning Never Stops.
-
-<br/>
 
 ---
 
