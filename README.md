@@ -10,7 +10,9 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 😄 Pronouns: He / Him
 
-- ⚡ Fun fact: I wear glasses because I don't C#
+- ⚡ Fun fact: I wear glasses because I don't C# 
+
+- 🤯 Feature: Visit my profile in both light and dark mode ! [Consider ⭐ing!]
 
 ---
 
