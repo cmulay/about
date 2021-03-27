@@ -4,13 +4,13 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 🔭 I’m currently working as Full Stack Developer at C-Tech Continentals
 
-- 👯 I’m looking to collaborate on Web, Android based projects or Anything.
+- 👯 I’m looking to collaborate on any platform based projects or research.
 
-- 💬 Ask me about: Web, Android, iOS Development or anything will try to help you as much as I can.
+- 💬 Ask me about: anything I will try to help you as much as I can.
 
 - 😄 Pronouns: He / Him
 
-- ⚡ Fun fact: I wear glasses because I don't C# 
+- ⚡ Fun fact: I wear glasses because I don't C#.
 
 - 🤯 Feature: Visit my profile in both light and dark mode ! [Consider ⭐ing!]
 
