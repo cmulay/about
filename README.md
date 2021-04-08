@@ -10,7 +10,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 😄 Pronouns: He / Him
 
-- ⚡ Fun fact: I wear glasses because I don't C#.
+- ⚡ Hackathons: [here](https://github.com/cmulay/HackList)
 
 - 🤯 Feature: Visit my profile in both light and dark mode ! [Consider ⭐ing!]
 
