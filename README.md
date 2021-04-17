@@ -114,7 +114,16 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 ### My WakaTime Stats:   
 
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+Week: 09 April, 2021 - 16 April, 2021
+
+PHP          29 mins         ████████████░░░░░░░░░░░░░   48.33 % 
+Python       10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Git Config   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Markdown     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+JSX          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+```
+<!--END_SECTION:waka-->
 
 ---
 
