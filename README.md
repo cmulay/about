@@ -14,6 +14,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 🤯 Feature: Visit my profile in both light and dark mode ! [Consider ⭐ing!]
 
+- 😄 If you want to create a similar profile readme [click here](https://github.com/cmulay/cmulay/generate).
+
 - ![](https://komarev.com/ghpvc/?username=cmulay&style=plastic&label=Stalker+Alert)
 ---
 
