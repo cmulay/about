@@ -117,13 +117,13 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
  <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2021 - 20 April, 2021
+Week: 14 April, 2021 - 21 April, 2021
 
-Python       2 hrs 47 mins   ███████████████████░░░░░░   76.43 % 
-Markdown     29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-HTML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Python       2 hrs 58 mins   ███████████░░░░░░░░░░░░░░   43.68 % 
+HTML         2 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.36 % 
+Markdown     34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+CSS          30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
 
