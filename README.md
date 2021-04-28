@@ -16,7 +16,8 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - 😄 If you want to create a similar profile readme [click here](https://github.com/cmulay/cmulay/generate).
 
-- ![](https://komarev.com/ghpvc/?username=cmulay&style=plastic&label=Stalker+Alert)
+- ![](https://img.shields.io/github/stars/cmulay?style=social)
+
 ---
 
 <div>
@@ -130,5 +131,5 @@ CSS          42 mins         ██▒░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>    
 </p>
