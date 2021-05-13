@@ -114,22 +114,6 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 ---
 
-### My WakaTime Stats:   
-
- <!--START_SECTION:waka-->
-```text
-Week: 05 May, 2021 - 12 May, 2021
-
-Python     20 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.11 % 
-HTML       7 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 % 
-CSS        3 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Markdown   3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-XML        1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-```
-<!--END_SECTION:waka-->
-
----
-
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>    
 </p>
