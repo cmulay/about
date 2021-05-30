@@ -36,8 +36,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
             <img align="left" alt="cmulay | React" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/react.png" />                      
             <img align="left" alt="cmulay | Android Development" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/android.png" />                      
             <img align="left" alt="cmulay | Android with Kotlin" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/kotlin.png" />                      
-            <img align="left" alt="cmulay | Flutter" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/flutter.png" />                      
-            <img align="left" alt="cmulay | Firebase" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/firebase.png" />                      
+            <img align="left" alt="cmulay | Flutter" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/flutter.png" />                                          
             <img align="left" alt="cmulay | Swift" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/swift.png" />                      
             <img align="left" alt="cmulay | Python" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/python.png" />                      
             <img align="left" alt="cmulay | MySQL" width="22px" src="https://github.com/cmulay/cmulay-v1/blob/master/designs/mytech/mysql.png" />                      
