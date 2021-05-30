@@ -12,7 +12,7 @@ I am a Computer Science Student, Exploring my interest and contributing to the O
 
 - ⚡ Hackathons: [here](https://github.com/cmulay/HackList)
 
-- 🤯 Feature: Visit my profile in both light and dark mode ! 
+- 🤯 Feature: Visit my profile in both [light and dark mode](https://github.com/settings/appearance) ! 
 
 - 😄 If you want to create a similar profile readme [click here](https://github.com/cmulay/cmulay-v1/generate). [Consider ⭐ing!]
 
