@@ -1,8 +1,8 @@
 [![ProfileBanner](https://github.com/cmulay/cmulay/blob/master/designs/banner/profile_banner.png)](https://cmulay.is-a.dev/)
 
-I'm an aspiring computer engineer, aiming and contributing to improve the enviroment around me in any possible way I can.
+I'm an aspiring computer engineer, contributing to improve the world around me.
 
-- 🌱 I’m passionate about helping those in need and facilitating growth and developement.
+- 🌱 I’m passionate about helping those in need.
  
 - 👯 I’m looking to collaborate on any platform based projects or research.
 
