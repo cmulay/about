@@ -79,19 +79,7 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
         <summary> 🔗 Connect with me:</summary>
             <br>
             <div> 
- - Visit:
- <p>
-  
-  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/portfolio_website.png" />](https://cmulay.is-a.dev)
-
-  [<img align="left" alt="cmulay | Blogs" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/socials/personal_website.png" />](https://www.ichinmay.me)
-  
- </p> <br>
-</div>
-
-<br>
-
-<div>
+ <div>
   - Social:
  <p>
   
