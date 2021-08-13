@@ -8,8 +8,6 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
 
 - 💬 Ask me about: anything I will try to help you as much as I can.
 
-- 😄 Pronouns: He / Him
-
 - ⚡ Hackathons: [here](https://github.com/cmulay/HackList)
 
 - 🤯 Feature: Visit my profile in both [light and dark mode](https://github.com/settings/appearance) ! 
