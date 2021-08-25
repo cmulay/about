@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+   # Runs at 12am UTC
+  schedule: [{cron: '0 0 * * *'}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: cmulay
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Calcutta
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_lines: yes
+          plugin_stargazers: yes
+          plugin_traffic: yes
