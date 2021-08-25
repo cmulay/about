@@ -104,7 +104,7 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
    <summary> 🕵️ Summary: </summary>
    <br>
    
-   ![Metrics](https://github.com/cmulay/cmulay/blob/main/github-metrics.svg) 
+   <img src="https://github.com/cmulay/cmulay/blob/master/github-metrics.svg" alt="Metrics"/> 
    
   </details>
  </div>
