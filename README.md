@@ -8,7 +8,7 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
 
 - 💬 Ask me about: anything I will try to help you as much as I can.
 
-- ⚡ Hackathons: [here](https://github.com/cmulay/about/blob/master/hacklist.md)
+- ⚡ Hackathons: [here](https://github.com/cmulay/about/blob/master/hack_list/hacklist.md)
 
 - 🤯 Feature: Visit my profile in both [light and dark mode](https://github.com/settings/appearance) !
 
