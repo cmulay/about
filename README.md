@@ -81,9 +81,9 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
   - Social:
  <p>
   
-  [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/cmulay/about/blob/master/designs/socials/gmail.png" />](mailto:codewithchin@gmail.com)
+  [<img align="left" alt="cmulay | Mail" width="22px" src="https://github.com/cmulay/about/blob/master/designs/socials/gmail.png" />]()
 
-[<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/cmulay/about/blob/master/designs/socials/instagram.png" />](https://www.instagram.com/_theguywithglasses_)
+[<img align="left" alt="cmulay | Instagram" width="22px" src="https://github.com/cmulay/about/blob/master/designs/socials/instagram.png" />]()
 
 [<img align="left" alt="cmulay | LinkedIn" width="22px" src="https://github.com/cmulay/about/blob/master/designs/socials/linkedin.png" />](https://linkedin.com/in/cmulay17)
 
